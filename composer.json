@@ -1,0 +1,22 @@
+{
+    "name": "airani/yii2-adminlte-rtl",
+    "description": "RTL (Right to Left) AdminLte theme for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","adminlte", "rtl", "adminlte-rtl"],
+    "authors": [
+        {
+            "name": "Ali Irani",
+            "email": "ali@irani.im"
+        }
+    ],
+    "require": {
+        "dmstr/yii2-adminlte-asset": "~2.0",
+        "bower-asset/adminlte_rtl": "~1.0",
+        "airani/yii2-bootstrap-rtl": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "airani\\": ""
+        }
+    }
+}
