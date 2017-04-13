@@ -1,5 +1,5 @@
 <?php
-namespace airani\web;
+namespace airani;
 
 use yii\web\AssetBundle;
 
