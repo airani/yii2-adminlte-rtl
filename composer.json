@@ -2,6 +2,7 @@
     "name": "airani/yii2-adminlte-rtl",
     "description": "RTL (Right to Left) AdminLte theme for Yii2",
     "type": "yii2-extension",
+    "license": "BSD-3-Clause",
     "keywords": ["yii2","extension","adminlte", "rtl", "adminlte-rtl"],
     "authors": [
         {
