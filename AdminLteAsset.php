@@ -8,4 +8,11 @@ namespace airani;
 class AdminLteAsset extends \dmstr\web\AdminLteAsset
 {
     public $css = [];
+
+    public function init()
+    {
+        $this->skin = false;
+
+        parent::init();
+    }
 }
